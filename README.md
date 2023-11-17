@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taiywo&label=Profile%20views&color=0e75b6&style=flat" alt="taiywo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiywo" alt="taiywo" /></a> </p>
-
 - 🌱 I’m currently learning **Software Security**
 
 - 💬 Ask me about **Javascript, React, Tailwind css, Wordpress .....**
